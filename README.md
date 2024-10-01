@@ -6,4 +6,4 @@ Uji commit
 
 ### Test for three way merge from parent
 
-### Test for three way merge from child
+### Test for three way merge from
